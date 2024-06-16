@@ -1,5 +1,5 @@
 
-#You can run the project locally using Docker with the help of the following commands.
+# You can run the project locally using Docker with the help of the following commands.
 
 __Step 1:__ Build Docker Image with the help of `docker build -t image_captioning .`
 
